@@ -1,6 +1,9 @@
 ## Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=selimboulaaba&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=selimboulaaba&theme=discord&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
 <!--
 **selimboulaaba/selimboulaaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
